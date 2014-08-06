@@ -10,6 +10,7 @@ namespace Nri.Poc.Ci.Controllers
     {
         public ActionResult Index()
         {
+            var t = "";
             return View();
         }
 
